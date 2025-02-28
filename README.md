@@ -89,10 +89,10 @@ face-parts-mask-detection/
 ## Results
 
 - **Face Parts Detection**:
-  ![Face Parts Detection](samples/face_parts_detection.png)
+  ![Face Parts Detection](Outputs)
 
 - **Mask Detection**:
-  ![Mask Detection](samples/mask_detection.png)
+  ![Mask Detection](Outputs)
 
 ---
 
